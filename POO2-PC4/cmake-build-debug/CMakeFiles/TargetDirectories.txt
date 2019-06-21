@@ -1,0 +1,3 @@
+C:/Users/albin/Desktop/Documents/GitHub/POO2/POO2-PC4/cmake-build-debug/CMakeFiles/unidad_6_programacion_concurrente_JosephPenaQuino.dir
+C:/Users/albin/Desktop/Documents/GitHub/POO2/POO2-PC4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/albin/Desktop/Documents/GitHub/POO2/POO2-PC4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
